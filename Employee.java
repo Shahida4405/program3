@@ -25,3 +25,4 @@ public class Employee {
         Employee emp = new Employee("John Doe", 12345, 50000.0, "Engineering","Hubbali");
         emp.dispay();
     }
+}
